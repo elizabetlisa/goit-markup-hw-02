@@ -148,12 +148,14 @@ body {
     color: #f4f4fd;
 }
 .contacts .about-us-team{
-background-color: #FFFFFF;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+}
+.contacts .list{
+    background-color: #FFFFFF;
 }
 .contacts{
     background-color: #F4F4FD;
