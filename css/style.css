@@ -84,7 +84,7 @@ body {
     color: #ffffff;
 }
 .btn:hover,
-btn:focus{
+.btn:focus{
     background-color: #404BBF;
 }
 
@@ -113,9 +113,9 @@ btn:focus{
 
 .about-page {
     font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11111;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
