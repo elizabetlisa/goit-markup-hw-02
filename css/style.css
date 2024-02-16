@@ -71,13 +71,24 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
+}
+.btn{
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.btn:hover,
+btn:focus{
+    background-color: #404BBF;
 }
 
-#studio {
+.studio {
     background-color: #2e2f42;
 }
 
