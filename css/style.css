@@ -114,8 +114,8 @@ body {
 .about-page {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -137,4 +137,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+.section-4{
+
 }
